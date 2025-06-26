@@ -12,3 +12,4 @@ C:\Users\ACtsg\Desktop\Repos\MyMovies_CSharp\MyMovies\MyMovies\obj\Debug\net8.0\
 C:\Users\ACtsg\Desktop\Repos\MyMovies_CSharp\MyMovies\MyMovies\obj\Debug\net8.0\MyMovies.pdb
 C:\Users\ACtsg\Desktop\Repos\MyMovies_CSharp\MyMovies\MyMovies\obj\Debug\net8.0\MyMovies.genruntimeconfig.cache
 C:\Users\ACtsg\Desktop\Repos\MyMovies_CSharp\MyMovies\MyMovies\obj\Debug\net8.0\ref\MyMovies.dll
+C:\Users\ACtsg\Desktop\Repos\MyMovies_CSharp\MyMovies\MyMovies\obj\Debug\net8.0\MyMovies.sourcelink.json
