@@ -1,0 +1,14 @@
+C:\Users\ACtsg\Desktop\Repos\MyMovies_CSharp\MyMovies\MyMovies\bin\Debug\net8.0\MyMovies.exe
+C:\Users\ACtsg\Desktop\Repos\MyMovies_CSharp\MyMovies\MyMovies\bin\Debug\net8.0\MyMovies.deps.json
+C:\Users\ACtsg\Desktop\Repos\MyMovies_CSharp\MyMovies\MyMovies\bin\Debug\net8.0\MyMovies.runtimeconfig.json
+C:\Users\ACtsg\Desktop\Repos\MyMovies_CSharp\MyMovies\MyMovies\bin\Debug\net8.0\MyMovies.dll
+C:\Users\ACtsg\Desktop\Repos\MyMovies_CSharp\MyMovies\MyMovies\bin\Debug\net8.0\MyMovies.pdb
+C:\Users\ACtsg\Desktop\Repos\MyMovies_CSharp\MyMovies\MyMovies\obj\Debug\net8.0\MyMovies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACtsg\Desktop\Repos\MyMovies_CSharp\MyMovies\MyMovies\obj\Debug\net8.0\MyMovies.AssemblyInfoInputs.cache
+C:\Users\ACtsg\Desktop\Repos\MyMovies_CSharp\MyMovies\MyMovies\obj\Debug\net8.0\MyMovies.AssemblyInfo.cs
+C:\Users\ACtsg\Desktop\Repos\MyMovies_CSharp\MyMovies\MyMovies\obj\Debug\net8.0\MyMovies.csproj.CoreCompileInputs.cache
+C:\Users\ACtsg\Desktop\Repos\MyMovies_CSharp\MyMovies\MyMovies\obj\Debug\net8.0\MyMovies.dll
+C:\Users\ACtsg\Desktop\Repos\MyMovies_CSharp\MyMovies\MyMovies\obj\Debug\net8.0\refint\MyMovies.dll
+C:\Users\ACtsg\Desktop\Repos\MyMovies_CSharp\MyMovies\MyMovies\obj\Debug\net8.0\MyMovies.pdb
+C:\Users\ACtsg\Desktop\Repos\MyMovies_CSharp\MyMovies\MyMovies\obj\Debug\net8.0\MyMovies.genruntimeconfig.cache
+C:\Users\ACtsg\Desktop\Repos\MyMovies_CSharp\MyMovies\MyMovies\obj\Debug\net8.0\ref\MyMovies.dll
