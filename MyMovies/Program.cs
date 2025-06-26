@@ -1,2 +1,2 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("My Movies! ");
+﻿/* MyMovies API (C) 2025 TSGxCode */
+Console.WriteLine("My Movies API! ");
